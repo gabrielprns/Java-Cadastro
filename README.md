@@ -6,7 +6,7 @@ Projeto solicitado na faculdade, no qual é feita uma consulta de dados através
   
     1.	Cadastro: Composto pela camada front-end, onde se localizarão as telas que devem ser consultadas pelo usuário. Também é aonde serão exibidas tabelas com as informações  inseridas pelo usuário.
     
-    2.	Model: Composto por métodos utilizados para pegar e armazenar as informações inseridas na tela, no banco de dados. Além disso serão utilizados métodos para deletar e      atualizar campos conforme o desejo do usuário.
+    2.	Model: Composto por métodos utilizados para pegar e armazenar as informações inseridas na tela, no banco de dados. Além disso serão utilizados métodos para deletar e atualizar campos conforme o desejo do usuário.
     
     3.	Connection: Responsável por estabelecer uma ligação entre todo o projeto e a base de dados.
 
